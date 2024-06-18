@@ -62,8 +62,8 @@ public class GenerateGrid : MonoBehaviour
         
         for (int i=0; i<tilesXrow; i++)
         {
-            var fencePosition = new Vector3();
-            var newFence = new GameObject();
+            Vector3 fencePosition;
+            GameObject newFence;
             if (!spawnPoints.Contains(tiles[0, i]) && tiles[0, i].roadOn)
             {
                 fencePosition = new Vector3(-2.75f, 0f, 0f) + Vector3.up * 1.25f;
