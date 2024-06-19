@@ -367,6 +367,7 @@
 "Assets/Scripts/SwipeManager.cs"
 "Assets/Scripts/Tile.cs"
 "Assets/Scripts/TouchCreator.cs"
+"Assets/Scripts/UIReadValue.cs"
 -langversion:9.0
 /deterministic
 /optimize-

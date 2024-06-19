@@ -50,7 +50,7 @@ public class GenerateGrid : MonoBehaviour
         FindNeighbors(target);
         CreateRoad(target, roadTarget, target);
 
-        int numberSpawnPoints = Mathf.RoundToInt(tilesXrow / 5);
+        int numberSpawnPoints = Mathf.RoundToInt(tilesXrow / 5f);
         for (int i=0; i<numberSpawnPoints; i++)
         {
             randomY = Random.Range(i*tilesXrow/numberSpawnPoints + 1, (i + 1) * tilesXrow / numberSpawnPoints - 1);
@@ -125,9 +125,9 @@ public class GenerateGrid : MonoBehaviour
             neighbor.X > tile.mySpawn.X && 
             neighbor.X >= tile.X &&
             neighbor.X <= target.X && 
-            (neighbor.X >= Mathf.RoundToInt(tilesXrow/4)?  
-             (neighbor.X >= Mathf.RoundToInt(tilesXrow/4)*2?
-              (neighbor.X >= Mathf.RoundToInt(tilesXrow/4)*3?
+            (neighbor.X >= Mathf.RoundToInt(tilesXrow/4f)?  
+             (neighbor.X >= Mathf.RoundToInt(tilesXrow/4f)*2?
+              (neighbor.X >= Mathf.RoundToInt(tilesXrow/4f)*3?
                Mathf.Abs(neighbor.Y - target.Y) <= Mathf.Abs(tile.Y - target.Y):
                Mathf.Abs(neighbor.Y - target.Y) >= Mathf.Abs(tile.Y - target.Y)
               ):

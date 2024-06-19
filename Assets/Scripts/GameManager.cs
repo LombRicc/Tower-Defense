@@ -7,6 +7,11 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     public GameObject enemy;
     public float spawnTimer = 2f;
+    public int waveNumber;
+    public int soldierNumber;
+    public int knightNumber;
+    public int birdNumber;
+    public int dragonNumber;
 
     private void Awake()
     {

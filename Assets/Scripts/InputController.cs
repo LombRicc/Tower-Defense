@@ -16,7 +16,9 @@ public class InputController : MonoBehaviour
         swipeManager.onLongPress += HandleLongPress;
         _camera = transform;
         slideAmount = GenerateGrid.instance.tilesXrow;
-        GetComponent<Camera>().fieldOfView = Mathf.Round((slideAmount-5)/5)*10+50;
+        _camera.Translate(Vector3.up * slideAmount);
+        _camera.Translate(Vector3.right * slideAmount);
+        GetComponent<Camera>().fieldOfView = Mathf.Round((slideAmount-5)/5f)*10+50;
     }
 
     void HandleSwipe(SwipeAction swipeAction)
