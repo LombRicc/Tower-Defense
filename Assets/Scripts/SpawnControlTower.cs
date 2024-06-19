@@ -13,6 +13,6 @@ public class SpawnControlTower : MonoBehaviour
     private IEnumerator Spawn()
     {
         yield return new WaitUntil(() => GenerateGrid.instance.created);
-        Instantiate(controlTower, this.transform.position + Vector3.up*3, Quaternion.identity);
+        Instantiate(controlTower, this.transform.position + Vector3.up*4, Quaternion.identity);
     }
 }
