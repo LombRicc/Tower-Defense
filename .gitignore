@@ -107,3 +107,5 @@ Library/Artifacts/fa/fad4d0eaeae112d867393eecf09817e7
 Library/Bee/1900b0aEDbg.dag_fsmtime
 Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll
 Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.pdb
+.vs/
+UserSettings/
