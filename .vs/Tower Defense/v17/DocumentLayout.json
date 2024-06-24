@@ -3,36 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\r.lombardi\\Tower Defense\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\spawnenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\uireadvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uireadvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|c:\\users\\r.lombardi\\tower defense\\assets\\scripts\\projectilebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectilebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\turretbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turretbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\enemyinrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyinrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|c:\\users\\r.lombardi\\tower defense\\assets\\scripts\\spawncontroltower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawncontroltower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\generategrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generategrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|c:\\users\\r.lombardi\\tower defense\\assets\\scripts\\uireadvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uireadvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|c:\\users\\r.lombardi\\tower defense\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\selectturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\spawnenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\markersactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\markersactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\walkingenemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\walkingenemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\placingturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placingturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\gridslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\controltower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controltower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\swipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\spriteswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spriteswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\spawncontroltower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawncontroltower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\flyingenemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flyingenemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\pistolbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\pistolbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\r.lombardi\\Tower Defense\\assets\\scripts\\missilebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\missilebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SniperBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SniperBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +102,287 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SpawnControlTower.cs",
-              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnControlTower.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnControlTower.cs",
-              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnControlTower.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SpawnControlTower.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:37:35.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UIReadValue.cs",
-              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\UIReadValue.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIReadValue.cs",
-              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\UIReadValue.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIReadValue.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T18:31:52.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenerateGrid.cs",
-              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GenerateGrid.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GenerateGrid.cs",
-              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GenerateGrid.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GenerateGrid.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAiwH4AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T18:59:41.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InputController.cs",
-              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\InputController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InputController.cs",
-              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\InputController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InputController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T08:43:15.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SpawnEnemies.cs",
-              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnEnemies.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnEnemies.cs",
-              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnEnemies.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SpawnEnemies.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T08:13:08.896Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "EnemyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:22:22.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GameManager.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs*",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAmwLIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T21:38:05.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnemyBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\EnemyBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehavior.cs",
-              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\EnemyBehavior.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyBehavior.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T21:22:22.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Tile.cs",
               "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\Tile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tile.cs",
               "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\Tile.cs",
               "RelativeToolTip": "Assets\\Scripts\\Tile.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBIAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T21:35:50.052Z",
+              "WhenOpened": "2024-06-02T21:35:50.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SelectTurret.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SelectTurret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectTurret.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SelectTurret.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectTurret.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:02:26.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenerateGrid.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GenerateGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GenerateGrid.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GenerateGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GenerateGrid.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwFAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:59:41.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyInRange.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\EnemyInRange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyInRange.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\EnemyInRange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyInRange.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:50:07.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIReadValue.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\UIReadValue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIReadValue.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\UIReadValue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIReadValue.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwD4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:31:52.362Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnEnemies.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnEnemies.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnEnemies.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnEnemies.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnEnemies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:13:08.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectileBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\ProjectileBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\ProjectileBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:33:01.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurretBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\TurretBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TurretBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\TurretBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TurretBehavior.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:53:55.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MarkersActions.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\MarkersActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MarkersActions.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\MarkersActions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MarkersActions.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAlwHgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:54:26.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\InputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputController.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\InputController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwE8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:43:15.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WalkingEnemyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\WalkingEnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WalkingEnemyBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\WalkingEnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WalkingEnemyBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:57:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlacingTurret.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\PlacingTurret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlacingTurret.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\PlacingTurret.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlacingTurret.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T19:24:43.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GridSlider.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GridSlider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridSlider.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\GridSlider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridSlider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:59:38.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PistolBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\PistolBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PistolBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\PistolBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PistolBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:41:15.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SniperBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SniperBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SniperBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SniperBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SniperBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:43:40.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MissileBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\MissileBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissileBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\MissileBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissileBehavior.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:43:24.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ControlTower.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\ControlTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlTower.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\ControlTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlTower.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:18:31.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SwipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SwipeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwipeManager.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SwipeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwipeManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:41:04.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpriteSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpriteSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteSwitcher.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpriteSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpriteSwitcher.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:15:15.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpawnControlTower.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnControlTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnControlTower.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\SpawnControlTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnControlTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:10:25.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlyingEnemyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\FlyingEnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlyingEnemyBehavior.cs",
+              "ToolTip": "C:\\Users\\r.lombardi\\Tower Defense\\Assets\\Scripts\\FlyingEnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlyingEnemyBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:47:27.707Z"
             }
           ]
         }

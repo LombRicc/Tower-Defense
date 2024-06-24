@@ -12,7 +12,7 @@ public class SpawnControlTower : MonoBehaviour
 
     private IEnumerator Spawn()
     {
-        yield return new WaitUntil(() => GenerateGrid.instance.created);
+        yield return new WaitUntil(() => GameManager.instance.gridCreated);
         Instantiate(controlTower, this.transform.position + Vector3.up*4, Quaternion.identity);
     }
 }

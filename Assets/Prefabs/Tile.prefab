@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 232696851847779699}
   - component: {fileID: 7535389807359151237}
   - component: {fileID: -6221063581632866042}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -228,7 +228,7 @@ MonoBehaviour:
   X: 0
   Y: 0
   neighbors: []
+  intersects: []
   mySpawn: {fileID: 0}
-  from: {fileID: 0}
+  randomNeighbor: {fileID: 0}
   roadOn: 0
-  fence: {fileID: 7201207839913877916, guid: abcb0c68067da964d997cdfd8c9d422d, type: 3}

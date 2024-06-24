@@ -13,6 +13,7 @@ public class Tile : MonoBehaviour
     public Tile mySpawn;
     public Tile randomNeighbor;
     public bool roadOn;
+    public bool occupied;
 
     void Start()
     {
@@ -21,7 +22,7 @@ public class Tile : MonoBehaviour
 
     private IEnumerator CreateFences()
     {
-        yield return new WaitUntil(() => GenerateGrid.instance.created);
+        yield return new WaitUntil(() => GameManager.instance.gridCreated);
         if (roadOn)
         {
             foreach (Tile tile in neighbors)
@@ -29,7 +30,7 @@ public class Tile : MonoBehaviour
                 if(tile != null && !intersects.Contains(tile) && tile != randomNeighbor)
                 {
                     var fencePosition = new Vector3((tile.transform.position.x - this.transform.position.x) / 2, 0f, (tile.transform.position.z - this.transform.position.z) / 2) + Vector3.up * 1.25f;
-                    var newFence = Instantiate(GenerateGrid.instance.fence, this.transform.position + fencePosition, Mathf.Abs(this.transform.position.x - tile.transform.position.x)==0 ? Quaternion.Euler(new Vector3(0, 90, 0)) : Quaternion.identity);
+                    var newFence = Instantiate(GameManager.instance.fence, this.transform.position + fencePosition, Mathf.Abs(this.transform.position.x - tile.transform.position.x)==0 ? Quaternion.Euler(new Vector3(0, 90, 0)) : Quaternion.identity);
                     newFence.transform.parent = this.transform;
                 }
             }

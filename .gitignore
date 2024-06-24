@@ -1,0 +1,16 @@
+
+/.vs
+Assembly-CSharp.csproj
+/.vs/Tower Defense
+/.vs/Tower Defense/v17
+*.meta
+.vs/Tower Defense/v17/.suo
+.vs/Tower Defense/v17/DocumentLayout.json
+/Library/PackageCache
+/Library/StateCache
+/Library/ShaderCache
+/obj
+/Temp
+/Logs
+/Library/Artifacts
+/Library/Bee

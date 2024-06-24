@@ -3,21 +3,60 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class EnemyBehavior : MonoBehaviour
+public abstract class EnemyBehavior : MonoBehaviour
 {
-    private NavMeshAgent agent;
+    public enum EnemyType
+    {
+        Soldier,
+        Bird,
+        Knight,
+        Dragon
+    }
+
+    public EnemyType enemyType;
+
     public Transform target;
+    public int health;
+    public float speed;
+    public int gold;
+    public List<EnemyInRange> inRangeOf;
 
     // Start is called before the first frame update
-    void Start()
+    protected void Start()
     {
-        agent = GetComponent<NavMeshAgent>();
         target = GameObject.FindWithTag("Target").transform;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void GetDamage(int damage)
     {
-        agent.destination = target.position;
+        health -= damage;
+        if(health <= 0) {
+            GameManager.instance.gold += gold;
+            foreach (EnemyInRange range in inRangeOf)
+            {
+                range.RemoveEnemy(gameObject);
+            }
+            ReduceEnemyUI();
+            Destroy(gameObject);
+        }
+    }
+
+    public void ReduceEnemyUI()
+    {
+        switch (enemyType)
+        {
+            case EnemyType.Soldier:
+                GameManager.instance.soldierNumber -= 1;
+                break;
+            case EnemyType.Bird:
+                GameManager.instance.birdNumber -= 1;
+                break;
+            case EnemyType.Knight:
+                GameManager.instance.knightNumber -= 1;
+                break;
+            case EnemyType.Dragon:
+                GameManager.instance.dragonNumber -= 1;
+                break;
+        }
     }
 }

@@ -5,15 +5,17 @@ TagManager:
   serializedVersion: 2
   tags:
   - Target
+  - Enemy
+  - Turret
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Walkable
+  - Tile
   - Water
   - UI
-  - 
-  - 
+  - Walkable
+  - Turret
   - 
   - 
   - 
