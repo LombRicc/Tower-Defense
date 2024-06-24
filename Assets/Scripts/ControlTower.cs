@@ -29,12 +29,14 @@ public class ControlTower : MonoBehaviour
                 range.RemoveEnemy(gameObject);
             }
             Destroy(collision.gameObject);
-            StartCoroutine(Blink());
+            if(!invincibilityFrames)
+                StartCoroutine(Blink());
         }
     }
 
     private IEnumerator Blink()
     {
+        invincibilityFrames = true;
 
         GameManager.instance.TakeDamage();
         if(GameManager.instance.health <= 0)
@@ -50,5 +52,7 @@ public class ControlTower : MonoBehaviour
             this.GetComponent<Renderer>().material.color = stdColor;
             yield return new WaitForSeconds(0.2f);
         }
+
+        invincibilityFrames = false;
     }
 }

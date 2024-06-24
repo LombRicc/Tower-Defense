@@ -146,34 +146,38 @@ public class GameManager : MonoBehaviour
 
     public void ManageWave()
     {
-        spawnTimer = spawnTimer - waveNumber;
         waveNumber += 1;
         enemiesNumber = 10 * waveNumber;
         if (waveNumber == 1)
         {
             soldierNumber = enemiesNumber;
+            spawnTimer = 13;
         }
         if(waveNumber == 2)
         {
             soldierNumber = Mathf.RoundToInt(enemiesNumber / 3f * 2f);
             birdNumber = Mathf.RoundToInt(enemiesNumber/3f);
+            spawnTimer = 8;
         }
         if(waveNumber == 3)
         {
             soldierNumber = Mathf.RoundToInt(enemiesNumber / 2f);
             birdNumber = Mathf.RoundToInt(enemiesNumber / 2f);
+            spawnTimer = 5;
         }
         if(waveNumber == 4)
         {
             soldierNumber = Mathf.RoundToInt(enemiesNumber / 6f * 3f);
             birdNumber = Mathf.RoundToInt(enemiesNumber / 6f * 2f);
             knightNumber = Mathf.RoundToInt(enemiesNumber / 6f);
+            spawnTimer = 3;
         }
         if(waveNumber == 5)
         {
             soldierNumber = Mathf.RoundToInt(enemiesNumber / 5f * 2f);
             birdNumber = Mathf.RoundToInt(enemiesNumber / 5f * 2f);
             knightNumber = Mathf.RoundToInt(enemiesNumber / 5f);
+            spawnTimer = 2;
         }
         if(waveNumber == 6)
         {
@@ -181,6 +185,7 @@ public class GameManager : MonoBehaviour
             birdNumber = Mathf.RoundToInt(enemiesNumber / 9f * 3f);
             knightNumber = Mathf.RoundToInt(enemiesNumber / 9f * 2f);
             dragonNumber = Mathf.RoundToInt(enemiesNumber / 9f);
+            spawnTimer = 1;
         }
         if(waveNumber >= 7)
         {
@@ -188,6 +193,7 @@ public class GameManager : MonoBehaviour
             birdNumber = Mathf.RoundToInt(enemiesNumber / 6f * 2f);
             knightNumber = Mathf.RoundToInt(enemiesNumber / 6f);
             dragonNumber = Mathf.RoundToInt(enemiesNumber / 6f);
+            spawnTimer = 1;
         }
         GameObject newEnemy;
         for(int i = 0; i < soldierNumber; i++) {

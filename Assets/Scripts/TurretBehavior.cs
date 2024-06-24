@@ -76,11 +76,11 @@ public class TurretBehavior : MonoBehaviour
                     var newProjectile = Instantiate(projectile, bore.position, Quaternion.identity);
                     if(type == TurretType.Missile)
                     {
-                        var randomIdx = Random.Range(0, range.enemies.Count);
-                        if(randomIdx < range.enemies.Count ? range.enemies[randomIdx] != null : range.enemies[0] != null)
+                        var randomIdx = Random.Range(0, range.enemies.Count-1);
+                        if(range.enemies[randomIdx] != null)
                             newProjectile.GetComponent<ProjectileBehavior>().target = range.enemies[randomIdx].transform;
                         else
-                            range.RemoveEnemy(randomIdx < range.enemies.Count ? range.enemies[randomIdx] : range.enemies[0]);
+                            range.RemoveEnemy(range.enemies[randomIdx]);
                     }
                     else
                     {
