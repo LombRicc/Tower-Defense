@@ -14,3 +14,8 @@ Assembly-CSharp.csproj
 /Logs
 /Library/Artifacts
 /Library/Bee
+Library/PlayerDataCache/
+Library/PlayModeViewStates/
+Tower-Defense.sln
+UserSettings/
+Library/

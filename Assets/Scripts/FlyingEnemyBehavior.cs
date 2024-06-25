@@ -11,15 +11,16 @@ public class FlyingEnemyBehavior : EnemyBehavior
     {
         base.Start();
         body = GetComponent<Rigidbody>();
-        transform.LookAt(target.position);
-        transform.Rotate(new Vector3(45f, 0f, 0f));
 
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if(target != null)
+        {
+            transform.LookAt(target.position);
+        }
     }
 
     private void FixedUpdate()
