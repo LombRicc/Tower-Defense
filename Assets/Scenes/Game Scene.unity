@@ -3045,8 +3045,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 10.621338, y: 11.250977}
-  m_SizeDelta: {x: 66.247314, y: 22.501953}
+  m_AnchoredPosition: {x: 10.621338, y: -0.98499}
+  m_SizeDelta: {x: 66.2473, y: 46.974}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &685512321
 MonoBehaviour:
@@ -7102,9 +7102,9 @@ MonoBehaviour:
   missile: {fileID: 9033449608185789139, guid: 4f5d80683f3531147851f4079a3b3378, type: 3}
   sniper: {fileID: 488392190269910008, guid: 498ef7756bbf9db4682acdd1c8e84610, type: 3}
   soldier: {fileID: 4950865090633577000, guid: d2371e049c1f11d47a55e368423f8966, type: 3}
-  bird: {fileID: 1221337517895371303, guid: 3bdc9984bd40fdf4db99af805270cf7e, type: 3}
+  bird: {fileID: 1221337517895371303, guid: 4da297ef090272a49bff07f7d16e9bc6, type: 3}
   knight: {fileID: 2294284218256202482, guid: 784f15c476dd2a245a79f039dd917c5d, type: 3}
-  dragon: {fileID: 1947700031864554255, guid: efc6c204d7181e843af351e1bf950078, type: 3}
+  dragon: {fileID: 1947700031864554255, guid: d44e47fbf757bea44bb1eb2d7d2259c5, type: 3}
   spawnTimer: 10
   waveNumber: 0
   enemiesNumber: 0
